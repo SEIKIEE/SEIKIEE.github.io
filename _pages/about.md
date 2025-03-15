@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year Ph.D. student in the [DIVER Research Group](https://github.com/ZJU-DIVER)  at Zhejiang University, where I am fortunate to be advised by Professor Jinfei Liu. My research interests focus on data markets and data valuation, aiming to develop fair and efficient algorithms for pricing and evaluating data value in various applications.
+I am a 4th-year Ph.D. student in the [DIVER Research Group](https://github.com/ZJU-DIVER)  at Zhejiang University, where I am fortunate to be advised by Professor Jinfei Liu. My research interests focus on data markets and data valuation, aiming to develop fair and efficient algorithms for pricing and evaluating data in various applications.
 
 
 Publications
