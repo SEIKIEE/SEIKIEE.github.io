@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4198.jpg"
+  avatar           : "images/IMG_4198.jpg"
   name             : "Jiayao Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Find my way back"
-  location         : "Earth"
+  location         : "Hangzhou"
   employer         : "Zhejiang University"
   uri              : # URL
   email            : "jiayaozhang@zju.edu.cn" 
